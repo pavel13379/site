@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" BMX Novatrack Reply 20",
+        "price": 200,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Scott Scale 20 Rigid",
+        "price": 250,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Stark Slash 26.1 D",
+        "price": 290,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Stark Rocket 24.1 D",
+        "price": 200,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Novatrack Extreme 21 sp. 24",
+        "price": 300,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" Stark Cobra 26.2 HD ",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Scott Scale 24 Rigid",
+        "price": 200,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Stark Luna 26.1 V ",
+        "price": 200,
+        "image": "image/8.png"
+    }
+
+]
